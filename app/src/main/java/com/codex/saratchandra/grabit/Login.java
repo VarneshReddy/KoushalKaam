@@ -26,9 +26,7 @@ import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-/**
- * Created by SaratChandra on 6/17/2016.
- */
+
 public class Login extends AppCompatActivity {
     EditText username, pass;
     TextView access;
